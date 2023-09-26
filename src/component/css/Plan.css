@@ -1,0 +1,35 @@
+/* style={{height:'71vh',padding:'9%'}} */
+
+/* add plan .css */
+
+.dash1{
+    height: 71vh;
+    padding: 9%;
+    /* border: 1px;
+    border-radius: 5px; */
+}
+
+.card-hero{
+    height: 71vh;
+    padding: 9%;
+    /* border: 1px solid;
+    border-radius: 5px; */
+}
+
+.card-body{
+    padding: '25%';
+    scrollbar-width: none;
+    height: 59vh;
+    
+}
+
+.form-data{
+    height: 50vh ;
+}
+
+.dash2{
+    height: 59vh;
+    scrollbar-width: none;
+    overflow-x: hidden; /* Hide horizontal scrollbar */
+    overflow-y: scroll;
+}

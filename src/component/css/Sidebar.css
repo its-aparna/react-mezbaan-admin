@@ -1,0 +1,17 @@
+li a{
+  color: white !important;
+}
+
+li a:hover{
+  color: #464646 !important;
+}
+
+#logName{
+  color:black;
+  font-size: medium;
+}
+
+#brand-name{
+  color: white !important;
+}
+

@@ -1,0 +1,14 @@
+.all1{
+    height: 100vh;
+}
+
+/* Dashboard */
+
+.box{
+  height:20.8vh !important;
+}
+
+.part1{
+    position: sticky;
+    top : 0 ;
+}

@@ -1,0 +1,11 @@
+.outer{
+    height: 48vw;
+    width: 100vw;
+    background-color:whitesmoke;
+}
+
+.inner{
+    height : auto;
+    padding-bottom: 4%;
+}
+
